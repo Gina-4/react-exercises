@@ -2,7 +2,7 @@ import Counter from "./Counter";
 
 function App() {
   return (
-    <div className="App">
+    <div className="counter-container">
       <h1>Counter Creator</h1>
       <Counter />
     </div>
